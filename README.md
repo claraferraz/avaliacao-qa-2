@@ -50,4 +50,4 @@ Link relativo para visualizar localmente: `./cypress/screenshots/`
 
 ## Apresentação (vídeo)
 
-Link relativo da apresentação para visualizar: `./video/apresentacao.mp4`.
+Link relativo da apresentação para visualizar: `apresentacao.mp4`.
